@@ -35,6 +35,6 @@ With Python and historical NBA statistics, I analyzed if top defenses usually en
 ---
 
 ### **<a href="./NBA_ShotChart_Trends">NBA Shot Chart Trends</a>**
-Analyzed shot chart data from the NBA from 2013-14 to 2025-26 through Python, `nba-api`, and machine learning techniques. Also looked into shot selection and FG% across quarters in a game, and what led to changes shot charts over seasons.
+Analyzed shot chart data from the NBA from 2013-14 to 2025-26 through Python, `nba-api`, and machine learning techniques. Also looked into shot selection and FG% across quarters in a game, and what led to changes in shot profiles over seasons.
 
 **Files:** `NBA_ShotChart.ipynb`, `NBA_request.ipynb`, `final_presentation.pdf`
