@@ -38,3 +38,10 @@ With Python and historical NBA statistics, I analyzed if top defenses usually en
 Analyzed shot chart data from the NBA from 2013-14 to 2025-26 through Python, `nba-api`, and machine learning techniques. Also looked into shot selection and FG% across quarters in a game, and what led to changes in shot profiles over seasons.
 
 **Files:** `NBA_ShotChart.ipynb`, `NBA_request.ipynb`, `final_presentation.pdf`
+
+---
+
+### **<a href="./NBA_ShotMake_Probabilities">NBA Shot Make Probabilities</a>**
+Using advanced features and data from NBA tracking, built two models to predict the probability shots will be made based on those advanced tracked features.
+
+**Files:** `shotmake_prediction_writeup.pdf`, `shotmake_code.ipynb`, `shot_details.zip`, `shotmake_probs.csv`, `shotmake_probs_logreg.csv`
